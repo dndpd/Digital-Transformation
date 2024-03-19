@@ -1,5 +1,7 @@
 # Digital-Transformation
+발표:4월 18일
 
+목차
 1. 소개 및 배경
 
 2. Digital Transformation(DX)의 필요성
@@ -9,3 +11,4 @@
 4. 성공 사례
 
 5. 구체적인 전략과 도구
+
